@@ -44,6 +44,7 @@
 <project path="packages/apps/H4K3RWalls" name="H4K3ROM/H4K3RWalls" remote="H4K3ROM" />
 <project path="packages/apps/H4K3RWebb" name="H4K3ROM/H4K3RWebb" remote="H4K3ROM" />
 <project path="packages/apps/KernelAdiutor" name="H4K3ROM/KernelAdiutor" remote="H4K3ROM" />
+<project path="packages/apps/SetupWizard" name="H4K3ROM/android_packages_apps_SetupWizard" remote="H4K3ROM" />
 
     <!-- H4K3ROM OnePlus3T Repos -->
 <project path="device/oneplus/oneplus3" name="H4K3ROM/android_device_oneplus_oneplus3" remote="H4K3ROM" />  
