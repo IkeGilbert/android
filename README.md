@@ -21,6 +21,5 @@ add that line to your ~/.bashrc file. Then, specify the max amount of disk space
 $ ccache -M 50G
 
 then do:
-repo sync --force-sync && . build/envsetup.sh && . vendor/lineage/h4k3rom.sh &&  LLVM_ENABLE_THREADS=2
-&& brunch oneplus3
+repo sync --force-sync && . build/envsetup.sh && . vendor/lineage/h4k3rom.sh &&  LLVM_ENABLE_THREADS=2 && brunch oneplus3
 
